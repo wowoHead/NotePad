@@ -11,7 +11,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 MyCursorAdapter:
 
-、、、
+```
 
 package com.example.android.notepad;
 
@@ -61,7 +61,7 @@ public class MyCursorAdapter extends SimpleCursorAdapter {
     }
 }
 
-、、、
+```
 
 、、、
 
