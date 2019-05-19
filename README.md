@@ -9,6 +9,8 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 ![](https://github.com/wowoHead/NotePad/blob/master/%E9%80%89%E6%8B%A9%E9%A2%9C%E8%89%B2.png)
 
+、、、
+
 MyCursorAdapter:
 package com.example.android.notepad;
 
@@ -58,6 +60,9 @@ public class MyCursorAdapter extends SimpleCursorAdapter {
     }
 }
 
+、、、
+
+、、、
 
 NoteColor:
 package com.example.android.notepad;
@@ -132,6 +137,9 @@ public class NoteColor extends Activity {
 
 }
 
+、、、
+
+、、、
 
 NoteEditor:
 /*
@@ -818,6 +826,9 @@ public class NoteEditor extends Activity {
 
 }
 
+、、、
+
+、、、
 
 NotePad:
 /*
@@ -983,6 +994,9 @@ public final class NotePad {
     }
 }
 
+、、、
+
+、、、
 
 NotePadProvider:
 /*
@@ -1758,6 +1772,9 @@ public class NotePadProvider extends ContentProvider implements PipeDataWriter<C
     }
 }
 
+、、、
+
+、、、
 
 NoteSearch:
 package com.example.android.notepad;
@@ -1852,6 +1869,9 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
     }
 }
 
+、、、
+
+、、、
 
 NoteList:
 /*
@@ -2334,6 +2354,9 @@ public class NotesList extends ListActivity {
     }
 }
 
+、、、
+
+、、、
 
 AndroidManifect:
 <?xml version="1.0" encoding="utf-8"?><!--
@@ -2632,4 +2655,4 @@ colors.xml:
     <color name="colorRed">#D81B60</color>
 </resources>
 
-
+、、、
