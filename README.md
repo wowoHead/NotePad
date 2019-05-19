@@ -63,7 +63,7 @@ public class MyCursorAdapter extends SimpleCursorAdapter {
 
 ```
 
-、、、
+```
 
 NoteColor:
 package com.example.android.notepad;
@@ -138,9 +138,9 @@ public class NoteColor extends Activity {
 
 }
 
-、、、
+```
 
-、、、
+```
 
 NoteEditor:
 /*
@@ -827,9 +827,9 @@ public class NoteEditor extends Activity {
 
 }
 
-、、、
+```
 
-、、、
+```
 
 NotePad:
 /*
@@ -995,9 +995,9 @@ public final class NotePad {
     }
 }
 
-、、、
+```
 
-、、、
+```
 
 NotePadProvider:
 /*
@@ -1773,9 +1773,9 @@ public class NotePadProvider extends ContentProvider implements PipeDataWriter<C
     }
 }
 
-、、、
+```
 
-、、、
+```
 
 NoteSearch:
 package com.example.android.notepad;
@@ -1870,9 +1870,9 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
     }
 }
 
-、、、
+```
 
-、、、
+```
 
 NoteList:
 /*
@@ -2355,9 +2355,9 @@ public class NotesList extends ListActivity {
     }
 }
 
-、、、
+```
 
-、、、
+```
 
 AndroidManifect:
 <?xml version="1.0" encoding="utf-8"?><!--
@@ -2536,6 +2536,9 @@ AndroidManifect:
 
 </manifest>
 
+```
+
+```
 
 note_color.xml:
 <?xml version="1.0" encoding="utf-8"?>
@@ -2579,6 +2582,9 @@ note_color.xml:
         android:onClick="red"/>
 </LinearLayout>
 
+```
+
+```
 
 note_search.xml:
 <?xml version="1.0" encoding="utf-8"?>
@@ -2641,6 +2647,9 @@ editor_options_menu.xml:
 
 </menu>
 
+```
+
+```
 
 colors.xml:
 <?xml version="1.0" encoding="utf-8"?>
@@ -2656,4 +2665,4 @@ colors.xml:
     <color name="colorRed">#D81B60</color>
 </resources>
 
-、、、
+```
