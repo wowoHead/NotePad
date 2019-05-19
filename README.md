@@ -9,9 +9,8 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
 
 ![](https://github.com/wowoHead/NotePad/blob/master/%E9%80%89%E6%8B%A9%E9%A2%9C%E8%89%B2.png)
 
-、、、
-
 MyCursorAdapter:
+、、、
 package com.example.android.notepad;
 
 import android.content.Context;
